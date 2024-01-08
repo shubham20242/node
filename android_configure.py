@@ -1,7 +1,7 @@
 import platform
 import sys
 import os
-
+#This is comment
 # TODO: In next version, it will be a JSON file listing all the patches, and then it will iterate through to apply them.
 def patch_android():
     print("- Patches List -")
